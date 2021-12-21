@@ -1,2 +1,2 @@
 # Density-based-Clustering
-Density-based Clustering Implementation using QuadTree and BoxGraph.
+Implementation and comparison of the Density-based Clustering using QuadTree and BoxGraph.
